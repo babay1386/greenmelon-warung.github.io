@@ -1,0 +1,20 @@
+devapp
+	webapp
+		github
+			commit file
+		Node
+		vscode
+			machine.greenmelon.warung
+			machine.greenmelon.kamera
+			machine.greenmelon.bank
+			machine.greenmelon.dompet
+			machine.greenmelon.kafe
+			machine.greenmelon.mall
+			machine.greenmelon.pasar
+			machine.greenmelon.mp3
+			machine.greenmelon.drone
+			machine.greenmelon.tv
+			machine.greenmelon.robot
+			machine.greenmelon.satpam
+			machine.greenmelon.polisi
+			machine.greenmelon.etc
